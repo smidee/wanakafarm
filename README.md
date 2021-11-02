@@ -74,3 +74,21 @@ Se você não tem uma terra nft, é necessário comprar pelo menos um espaço de
 Fique de olho se há um peixe no lago da terra padrão. Se ele aparecer, ande por todos os plots do lago até encontrar um quadrado "clicável". Aperte espaço e vá a tela de quests para coletar sua recompensa.
 
 Não é necessário ter a plot do lago ativada para fazer a quest.
+
+### Como fazer o evento de halloween?
+
+O evento consistem em você construir os baús das almas. Estes baús após abertos, te darão itens de decoração, sementes, itens de produtos e até os pets que são super raros. A receita para fabricar o Soul Chest é:
+
+* 3 Spirit Fragment
+* 1 Soul Seed
+* 30 Wai
+* 1 Energy
+
+Primeiro você precisa habilitar o evento na tela de eventos. Depois aparecerão túmulos em suas terras de forma aleatória.
+
+Você deverá limpar sua terra removendo os túmulos. Cada vez que você fizer isso, existe uma chance de ganhar um fragmento de espírito que você deverá ir juntando pra comprar o baú das almas. Cada vez que você tentar remover o túmulo, gasta 1 de energia. Há uma change de você não conseguir o fragmente e ainda tomar um choque na cara (kkk), gastando mais 5 de energia.
+
+Quando você já tiver pelo menos 3 fragmentos, compre uma Soul Seed para conseguir fabricar o baú da Factory.
+
+Mais informação em https://wanakafarm.com/papers
+
