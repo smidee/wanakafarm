@@ -1,5 +1,19 @@
 # Wanakafarm - WIKI Não-Oficial
 
+## Como contribuir com este material?
+
+Para contribuir, você pode abrir um pull request diretamente pelo github, ou me contactar pelo telegram https://t.me/smidee2.
+
+## Informações do Projeto
+
+- Site oficial: https://wanakafarm.com/
+- Contrato WANA (token de governança): 0x339C72829AB7DD45C3C52f965E7ABe358dd8761E
+- Contrato WAI (token do game): 0x934c9198582bf2631128c5d4b051aacef9a6224f
+- Telegram oficial em inglês: https://t.me/WanakaOfficial
+- Telegram em português: https://t.me/wanakafarmbr
+
+## Informações dos Itens
+
 ### Tempos de regas e alimentação
 
 * Cabbage - 0h, 2h, 4h (Tempo de colheita - 6h)  
@@ -31,3 +45,32 @@ Para evoluir as lands é necessário acumular EXP. Você irá ganhar EXP ao colh
 * Apple: 12 EXP
 * Fish: 18 EXP
 * Cow: 24 EXP
+
+## FAQ - Perguntas Frequentes
+
+### Qual o investimento mínimo?
+
+Se você tem uma terra nft, você vai precisar de uns 20$ (USD) em WANA para comprar sementes. É bom comprar entre 50 e 100 WAI para breeding.
+
+Se você não tem uma terra nft, é necessário comprar pelo menos um espaço de terra no terreno padrão. Um espaço custa 20 dolar em WANA e você poderá comprar até quatro. Também precisará de uns 10 dólares para comprar sementes e uns 50 WAIs para taxas de reprodução.
+
+### Para que WANA será usado?
+- Comprar terreno
+- Compre itens de sementes
+- Compre itens em crescimento
+- Compre itens colhidos
+- Compre itens de produtos
+- Compre itens de construção
+- Compre animais de estimação
+
+### Para que WAI será usado?
+- Taxas de reprodução
+- Taxas de produção
+- Atualizar terras
+- Participar em jogos de loteria
+
+### Como fazer a missão diária da Ka Coin?
+
+Fique de olho se há um peixe no lago da terra padrão. Se ele aparecer, ande por todos os plots do lago até encontrar um quadrado "clicável". Aperte espaço e vá a tela de quests para coletar sua recompensa.
+
+Não é necessário ter a plot do lago ativada para fazer a quest.
