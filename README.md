@@ -1,4 +1,4 @@
-# Wanakafarm - WIKI Não-Oficial
+# Wanakafarm WIKI Não-Oficial
 
 ## Como contribuir com este material?
 
