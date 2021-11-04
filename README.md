@@ -92,3 +92,20 @@ Quando você já tiver pelo menos 3 fragmentos, compre uma Soul Seed para conseg
 
 Mais informação em https://wanakafarm.com/papers
 
+### Qual a probabilidade de gerar 2, 3 ou 4 novos items no breeding?
+
+O base rate varia se você regou seus itens corretamente ou não.
+
+Se você regou e alimentou corretamente:
+
+2 seeds = 30% probabilidade 
+3 seeds = 66% probabilidade
+4 seeds = 4% probabilidade
+
+Se você deixou de regar ou alimentar:
+
+2 seeds = 70% probabilidade
+3 seeds = 30% probabilidade
+4 seeds = 0% probabilidade
+
+
