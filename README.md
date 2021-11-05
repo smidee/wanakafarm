@@ -34,11 +34,13 @@ Para contribuir, você pode abrir um pull request diretamente pelo github, ou me
 Para evoluir as lands é necessário acumular EXP. Você irá ganhar EXP ao colher itens na própria land. Cada land tem sua própria contagem de EXP.
 
 #### Quantidade de espaços e EXP necessário para cada level de land
-* L1: 10 espaços - 240 exp
-* L2: 14 espaços - 336 exp
-* L3: 18 espaços - 432 exp
-* L4: 22 espaços - 528 exp
-* L5: 26 espaços - 624 exp
+* L1: 10 espaços
+* L2: 14 espaços (240 exp)
+* L3: 18 espaços (336 exp)
+* L4: 22 espaços (432 exp)
+* L5: 26 espaços (528 exp)
+* L6: 30 espaços (624 exp)
+* L7: 34 espaços (720 exp)
 
 #### Cada item colhido fornece uma taxa de EXP
 * Cabbage: 6 EXP
